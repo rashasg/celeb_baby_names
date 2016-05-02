@@ -1,8 +1,8 @@
 # Celebrity Baby Names
 
-**Modified for Assignment due 5/1/16
+**Modified for Assignment due 5/1/16**
 
-disney_char_By_rate.ipynb, football_modified.py, basketball_modified.py
+disney_char_By_rate.ipynb, football_modified.py, basketball_modified.py, movie_analysis_fixed.ipynb
 
 
 
@@ -32,7 +32,7 @@ The data was cleaned and integrated with characters and cast information from IM
 
 4)Does Disney Character's names influence the popularity of babies named after the film's release?
 
-"Instructions for executing your code”
+# Instructions for executing your code
 
 **Presidential Approval**
 
