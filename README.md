@@ -1,5 +1,13 @@
 # Celebrity Baby Names
 
+**Modified for Assignment due 5/1/16
+
+disney_char_By_rate.ipynb, football_modified.py, basketball_modified.py
+
+
+
+
+
 #### By: [Keevey Song](https://github.com/Keevey), [Peng Zhao](https://github.com/pengzhao001), [Rasha Gargees](https://github.com/rashasg), [Andrew Pistole](https://github.com/APistole) & [James Bain](https://github.com/jcbain)
 
 [The Dataset(National Level)](https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-national-level-data)
@@ -9,6 +17,7 @@
 [The Dataset for Presidents](http://www.presidency.ucsb.edu/data/popularity.php)
 
 [The Dataset for movies of all time adjusted for inflation](http://www.filmsite.org/boxoffice3.html)
+
 The data was cleaned and integrated with characters and cast information from IMDb http://www.imdb.com/ through IMDbPY package http://imdbpy.sourceforge.net/. 
 
 [The Dataset for Disney Movies](http://www.imdb.com/list/ls053518863/?start=1&view=compact&sort=listorian:asc&defaults=1)
