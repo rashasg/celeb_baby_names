@@ -59,6 +59,14 @@ The data was cleaned and integrated with characters and cast information from IM
 
 3)For the (disney_char_by_rate.ipynb), ensure(Rasha_Data.csv) and (StateNames.csv) in the output folder.
 
+**Sport's MVP's**
+
+1)Ensure that you have the file StateNames.csv and change the path in the code to your directory of this file
+
+2) Use the command line as python3 football_modified.py
+
+3)Make sure that you installed all the library mentioned in this code.
+
 
 #[The Extended Documentation](https://docs.google.com/document/d/1UMTl81b4zbJz0xprrjVmWvOU5WAy-3XYd90N__wtLfU/edit)
 	
