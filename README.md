@@ -46,6 +46,7 @@ The data was cleaned and integrated with characters and cast information from IM
 
 
 **Movie Characters**
+
 1)Make sure raw_100_films_inflation_adj.csv is in /data folder and IMDbPY has been installed when executing “movie_data_carpentry.ipynb”. Be aware that this is a python 2 notebook since the IMDbPY package only works under Python 2. After executing this notebook, “movie_data_final.csv” will be created.
 
 2)“movie_data_final.csv” will be used in movie_analysis_fixed.ipynb (Python 3 notebook) as input. “movie_analysis_fixed.ipynb” is used for analysis and it has adjusted for the prior popularity of the names.
